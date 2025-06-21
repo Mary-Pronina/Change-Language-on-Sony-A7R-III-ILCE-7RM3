@@ -36,7 +36,7 @@ Type `help` for the list of supported commands.
 Type `exit` to quit.
 >
 ```
-3. Unlock all languages via Tweak
+### 3. Unlock all languages via Tweak
 At the prompt, type:
 
 ```
@@ -65,7 +65,7 @@ Then apply changes by typing:
 ```
 Note: If you get an error Cannot overwrite backup, it means the setting is already enabled.
 
-4. Exit the shell and reboot the camera
+### 4. Exit the shell and reboot the camera
 Type:
 
 ```
@@ -76,7 +76,7 @@ Then reboot the camera with:
 ```
 .\pmca-console-v0.18-22-ga82f5ba-win.exe reboot
 ```
-5. Check the camera menu language
+### 5. Check the camera menu language
 After reboot, open your camera menu and you should be able to select English or any other unlocked language.
 
 ## Notes
